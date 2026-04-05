@@ -6,3 +6,5 @@ vegetation analysis for the municipality of Marcilla, located in Navarre, Spain.
 workflow combines Google Earth Engine for image selection, spectral signature analysis,
 and vegetation index computation (SAVI), with Python for visualization and time-series
 analysis of agricultural plots.
+
+Link for GEE script: https://code.earthengine.google.com/59aa83cde2169a72c91cc69c2ea4cd9a
